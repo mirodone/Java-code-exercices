@@ -7,9 +7,9 @@ public class Main {
     public static void main(String[] args) {
 
       double result;
-     result = evaluate("2 + 5");
+    // result = evaluate("2 + 5");
 
-     result = evaluate("2 / 2 + 3 * 4 - 2");
+     result = evaluate("3 * 2 + 3 / 4 + 2");
 
         System.out.println(result);
 
